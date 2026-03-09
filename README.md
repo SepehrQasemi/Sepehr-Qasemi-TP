@@ -1,34 +1,38 @@
-﻿# Portfolio MIAGE
+# MIAGE Portfolio
 
-Portfolio statique en HTML/CSS/JS pour la soutenance du projet CRM.
+Static HTML/CSS/JS portfolio used for the CRM project presentation.
 
-## Contenu
-- `index.html`: accueil
-- `travaux.html`: TP et exercices
-- `cours.html`: synthese des notions
-- `certifications.html`: progression et projets
-- `projet-final.html`: presentation complete du CRM
-- `soutenance.html`: plan 8-10 min + captures CRM
-- `ressources.html`: references officielles
-- `a-propos.html`: profil et contact
+## Content
+- `index.html`: home
+- `travaux.html`: assignments and practical work
+- `cours.html`: course concept summary
+- `certifications.html`: progress and side projects
+- `projet-final.html`: complete CRM project presentation
+- `soutenance.html`: 8-10 minute presentation plan + CRM screenshots
+- `ressources.html`: official references
+- `a-propos.html`: profile and contact
 
-## Livrables relies
-- Repo Portfolio: https://github.com/SepehrQasemi/Portfolio
-- Repo CRM: https://github.com/SepehrQasemi/crm-food-trading
-- Demo CRM: https://web-brown-delta-70.vercel.app
+## Linked Deliverables
+- Portfolio repository: https://github.com/SepehrQasemi/Portfolio
+- CRM repository: https://github.com/SepehrQasemi/crm-food-trading
+- CRM demo: https://web-brown-delta-70.vercel.app
 
-## Fichiers utiles
-- Rapports / documents: `assets/files/`
-- Captures CRM: `assets/screenshots/`
+## Useful folders
+- Reports / documents: `assets/files/`
+- CRM screenshots: `assets/screenshots/`
 - Styles: `assets/css/style.css`
-- JS commun: `assets/js/main.js`
+- Shared JS: `assets/js/main.js`
 
-## Usage local
-- Ouvrir `index.html` dans le navigateur
-- Option VS Code: Live Server
+## Local usage
+- Open `index.html` in a browser
+- VS Code option: Live Server
 
-## Publication GitHub Pages
-1. Push sur `main`
+## GitHub Pages publishing
+1. Push to `main`
 2. GitHub -> Settings -> Pages
 3. Source: Deploy from a branch
 4. Branch: `main` / folder: `/ (root)`
+
+## Language strategy
+- Default language: English
+- Next versions: French and Persian
