@@ -32,7 +32,7 @@
     const leaf = (pathname.split("/").pop() || "index.html").toLowerCase();
     const target = pathname.includes("/assets/files/tp-hubspot/")
       ? "travaux.html"
-      : leaf;
+      : (leaf === "projet-final.html" ? "projects.html" : leaf);
 
     document.querySelectorAll(".nav-links a").forEach((a) => {
       const href = (a.getAttribute("href") || "").toLowerCase();
